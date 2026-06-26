@@ -1,0 +1,52 @@
+{
+  "survey": {
+    "birth": "1991/12/16",
+    "age": 34,
+    "gender_code": 1,
+    "height": 174.0,
+    "weight": 75.0,
+    "bmi": 24.8,
+    "htn_flag": 2,
+    "med_dose": "0",
+    "comorbid": 0,
+    "occupation": 0,
+    "work_hours": 3,
+    "smoke": 2,
+    "drink": 2
+  },
+  "bp": {
+    "n": 70,
+    "sbp_mean": 132.1,
+    "sbp_min": 111.0,
+    "sbp_max": 156.0,
+    "dbp_mean": 86.3,
+    "dbp_min": 71.0,
+    "dbp_max": 108.0,
+    "pulse_mean": 67.2,
+    "pct_sbp_ge130": 58.6,
+    "pct_sbp_ge140": 22.9,
+    "pct_dbp_ge85": 55.7
+  },
+  "hr": {
+    "n": 4307,
+    "mean": 93.8,
+    "min": 39.0,
+    "max": 196.0,
+    "resting": 53.9
+  },
+  "hrv_ms": 54.0,
+  "spo2_pct": 97.3,
+  "resp": 17.2,
+  "steps_per_day": 8749,
+  "steps_max": 15815,
+  "dist_per_day_km": 6.44,
+  "active_kcal_per_day": 397,
+  "exercise_min_per_day": 37.1,
+  "floors_per_day": 11.6,
+  "stand_min_per_day": 103,
+  "walk_speed_ms": 1.3,
+  "step_len_cm": 67.2,
+  "daylight_min_per_day": 12,
+  "sleep_hours_per_night": 7.7,
+  "sleep_nights": 7
+}
